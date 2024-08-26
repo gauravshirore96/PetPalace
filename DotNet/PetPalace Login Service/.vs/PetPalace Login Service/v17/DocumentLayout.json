@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\KNOW IT\\Project\\Dot Net\\PetPalace Login Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9795147-58FB-42D5-9C44-5DB0495E9CC8}|UserLoginService\\UserLoginService.csproj|g:\\know it\\project\\dot net\\petpalace login service\\userloginservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9795147-58FB-42D5-9C44-5DB0495E9CC8}|UserLoginService\\UserLoginService.csproj|solutionrelative:userloginservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9795147-58FB-42D5-9C44-5DB0495E9CC8}|UserLoginService\\UserLoginService.csproj|g:\\know it\\project\\dot net\\petpalace login service\\userloginservice\\models\\petpalacecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9795147-58FB-42D5-9C44-5DB0495E9CC8}|UserLoginService\\UserLoginService.csproj|solutionrelative:userloginservice\\models\\petpalacecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9795147-58FB-42D5-9C44-5DB0495E9CC8}|UserLoginService\\UserLoginService.csproj|g:\\know it\\project\\dot net\\petpalace login service\\userloginservice\\userloginservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9795147-58FB-42D5-9C44-5DB0495E9CC8}|UserLoginService\\UserLoginService.csproj|solutionrelative:userloginservice\\userloginservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9795147-58FB-42D5-9C44-5DB0495E9CC8}|UserLoginService\\UserLoginService.csproj|g:\\know it\\project\\dot net\\petpalace login service\\userloginservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9795147-58FB-42D5-9C44-5DB0495E9CC8}|UserLoginService\\UserLoginService.csproj|solutionrelative:userloginservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9795147-58FB-42D5-9C44-5DB0495E9CC8}|UserLoginService\\UserLoginService.csproj|g:\\know it\\project\\dot net\\petpalace login service\\userloginservice\\models\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9795147-58FB-42D5-9C44-5DB0495E9CC8}|UserLoginService\\UserLoginService.csproj|solutionrelative:userloginservice\\models\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9795147-58FB-42D5-9C44-5DB0495E9CC8}|UserLoginService\\UserLoginService.csproj|g:\\know it\\project\\dot net\\petpalace login service\\userloginservice\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9795147-58FB-42D5-9C44-5DB0495E9CC8}|UserLoginService\\UserLoginService.csproj|solutionrelative:userloginservice\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9795147-58FB-42D5-9C44-5DB0495E9CC8}|UserLoginService\\UserLoginService.csproj|g:\\know it\\project\\dot net\\petpalace login service\\userloginservice\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9795147-58FB-42D5-9C44-5DB0495E9CC8}|UserLoginService\\UserLoginService.csproj|solutionrelative:userloginservice\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9795147-58FB-42D5-9C44-5DB0495E9CC8}|UserLoginService\\UserLoginService.csproj|g:\\know it\\project\\dot net\\petpalace login service\\userloginservice\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9795147-58FB-42D5-9C44-5DB0495E9CC8}|UserLoginService\\UserLoginService.csproj|solutionrelative:userloginservice\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9795147-58FB-42D5-9C44-5DB0495E9CC8}|UserLoginService\\UserLoginService.csproj|g:\\know it\\project\\dot net\\petpalace login service\\userloginservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9795147-58FB-42D5-9C44-5DB0495E9CC8}|UserLoginService\\UserLoginService.csproj|solutionrelative:userloginservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9795147-58FB-42D5-9C44-5DB0495E9CC8}|UserLoginService\\UserLoginService.csproj|g:\\know it\\project\\dot net\\petpalace login service\\userloginservice\\migrations\\20240813040800_renamecolumnmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9795147-58FB-42D5-9C44-5DB0495E9CC8}|UserLoginService\\UserLoginService.csproj|solutionrelative:userloginservice\\migrations\\20240813040800_renamecolumnmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "G:\\KNOW IT\\Project\\Dot Net\\PetPalace Login Service\\UserLoginService\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "UserLoginService\\Models\\Seller.cs",
+              "ToolTip": "G:\\KNOW IT\\Project\\Dot Net\\PetPalace Login Service\\UserLoginService\\Models\\Seller.cs",
+              "RelativeToolTip": "UserLoginService\\Models\\Seller.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T11:21:03.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "G:\\KNOW IT\\Project\\Dot Net\\PetPalace Login Service\\UserLoginService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserLoginService\\Models\\User.cs",
+              "ToolTip": "G:\\KNOW IT\\Project\\Dot Net\\PetPalace Login Service\\UserLoginService\\Models\\User.cs",
+              "RelativeToolTip": "UserLoginService\\Models\\User.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T11:20:59.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "G:\\KNOW IT\\Project\\Dot Net\\PetPalace Login Service\\UserLoginService\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UserLoginService\\Controllers\\UsersController.cs",
+              "ToolTip": "G:\\KNOW IT\\Project\\Dot Net\\PetPalace Login Service\\UserLoginService\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UserLoginService\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAwwHUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T11:00:48.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "petpalaceContext.cs",
+              "DocumentMoniker": "G:\\KNOW IT\\Project\\Dot Net\\PetPalace Login Service\\UserLoginService\\Models\\petpalaceContext.cs",
+              "RelativeDocumentMoniker": "UserLoginService\\Models\\petpalaceContext.cs",
+              "ToolTip": "G:\\KNOW IT\\Project\\Dot Net\\PetPalace Login Service\\UserLoginService\\Models\\petpalaceContext.cs",
+              "RelativeToolTip": "UserLoginService\\Models\\petpalaceContext.cs",
+              "ViewState": "AQIAAFsAAAAAMDMzMzPzv8kBAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:35:51.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Role.cs",
+              "DocumentMoniker": "G:\\KNOW IT\\Project\\Dot Net\\PetPalace Login Service\\UserLoginService\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "UserLoginService\\Models\\Role.cs",
+              "ToolTip": "G:\\KNOW IT\\Project\\Dot Net\\PetPalace Login Service\\UserLoginService\\Models\\Role.cs",
+              "RelativeToolTip": "UserLoginService\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T11:20:34.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\KNOW IT\\Project\\Dot Net\\PetPalace Login Service\\UserLoginService\\Program.cs",
+              "RelativeDocumentMoniker": "UserLoginService\\Program.cs",
+              "ToolTip": "G:\\KNOW IT\\Project\\Dot Net\\PetPalace Login Service\\UserLoginService\\Program.cs",
+              "RelativeToolTip": "UserLoginService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T11:04:39.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserLoginService.csproj",
+              "DocumentMoniker": "G:\\KNOW IT\\Project\\Dot Net\\PetPalace Login Service\\UserLoginService\\UserLoginService.csproj",
+              "RelativeDocumentMoniker": "UserLoginService\\UserLoginService.csproj",
+              "ToolTip": "G:\\KNOW IT\\Project\\Dot Net\\PetPalace Login Service\\UserLoginService\\UserLoginService.csproj",
+              "RelativeToolTip": "UserLoginService\\UserLoginService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T10:36:48.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Buyer.cs",
+              "DocumentMoniker": "G:\\KNOW IT\\Project\\Dot Net\\PetPalace Login Service\\UserLoginService\\Models\\Buyer.cs",
+              "RelativeDocumentMoniker": "UserLoginService\\Models\\Buyer.cs",
+              "ToolTip": "G:\\KNOW IT\\Project\\Dot Net\\PetPalace Login Service\\UserLoginService\\Models\\Buyer.cs",
+              "RelativeToolTip": "UserLoginService\\Models\\Buyer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T11:21:06.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "G:\\KNOW IT\\Project\\Dot Net\\PetPalace Login Service\\UserLoginService\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "UserLoginService\\Models\\LoginModel.cs",
+              "ToolTip": "G:\\KNOW IT\\Project\\Dot Net\\PetPalace Login Service\\UserLoginService\\Models\\LoginModel.cs",
+              "RelativeToolTip": "UserLoginService\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:57:21.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240813040800_RenameColumnMigration.cs",
+              "DocumentMoniker": "G:\\KNOW IT\\Project\\Dot Net\\PetPalace Login Service\\UserLoginService\\Migrations\\20240813040800_RenameColumnMigration.cs",
+              "RelativeDocumentMoniker": "UserLoginService\\Migrations\\20240813040800_RenameColumnMigration.cs",
+              "ToolTip": "G:\\KNOW IT\\Project\\Dot Net\\PetPalace Login Service\\UserLoginService\\Migrations\\20240813040800_RenameColumnMigration.cs",
+              "RelativeToolTip": "UserLoginService\\Migrations\\20240813040800_RenameColumnMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:08:00.968Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
