@@ -1,0 +1,65 @@
+/* Home.css */
+.home-container {
+    background-color: #f3f4f6;
+    padding: 30px 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.home-header h1 {
+    color: #007bff;
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+}
+
+.home-header p {
+    color: #6c757d;
+    font-size: 1.2rem;
+}
+
+.home-card {
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.home-card:hover {
+    transform: translateY(-5px);
+}
+
+.home-card-title {
+    color: #28a745;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.home-card-text {
+    color: #6c757d;
+    font-size: 1rem;
+}
+
+.home-card-button {
+    background-color: #28a745;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.home-card-button:hover {
+    background-color: #218838;
+}
+
+.title {
+ padding: 180px 0 0 100px;
+}
+
+.title h1 {
+    text-align: start;
+}
+
+.title p {
+    margin-left: 40px;
+}

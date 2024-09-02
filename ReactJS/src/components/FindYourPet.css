@@ -1,0 +1,44 @@
+.find-your-pet {
+    margin-top: 20px;
+}
+
+.search-filter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+
+   
+
+}
+
+.search-filter .search {
+   
+    width: 50%;
+}
+
+.search-filter .search input{
+    margin:0;
+    
+}
+
+.search-filter .range{
+
+    width: 300px;
+}
+
+.pet-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.pet-card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.pet-image {
+    max-width: 100%;
+    height: 250px;
+    object-fit: cover;
+}

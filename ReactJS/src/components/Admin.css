@@ -1,0 +1,15 @@
+.navbar {
+    width: 100%;
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .logout{
+    position: absolute;
+  }
+  .navv{
+    padding: 0;
+    margin:0;
+    border: 0;
+  }
